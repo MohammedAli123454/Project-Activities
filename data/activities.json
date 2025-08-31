@@ -1,0 +1,269 @@
+{
+  "phases": [
+    {
+      "name": "Site Preparation & Foundation Phase",
+      "categories": [
+        {
+          "name": "Site Investigation & Preparation",
+          "items": [
+            "Site survey, topographic mapping, and setting out",
+            "Soil investigation (boreholes, trial pits, SPT tests)",
+            "Laboratory soil analysis & geotechnical report preparation",
+            "Existing utility identification and diversion (if any)",
+            "Site clearance: vegetation removal, grading, and debris disposal",
+            "Demolition of existing structures (if applicable)",
+            "Temporary facilities: offices, stores, worker accommodation, fencing, toilets",
+            "Site security setup: boundary wall, CCTV, access control",
+            "Access road & temporary haul roads construction",
+            "Temporary drainage & dewatering systems",
+            "Utility provisions for site (temporary power, water, lighting)"
+          ]
+        },
+        {
+          "name": "Excavation Works",
+          "items": [
+            "Trial pit excavation for soil verification",
+            "Bulk excavation for basements/footings",
+            "Trenching for utilities and services",
+            "Shoring, sheet piling, or soldier piles for excavation support",
+            "Dewatering system setup (pumps, well points, sump pits)",
+            "Excavated soil disposal or stockpiling for backfill"
+          ]
+        },
+        {
+          "name": "Foundation Works",
+          "items": [
+            "PCC (lean concrete) bed preparation",
+            "Setting out of foundation grid lines",
+            "Reinforcement fabrication & placement (footings, pile caps, rafts)",
+            "Formwork fixing & alignment checks",
+            "Concrete pouring (footings, pile caps, rafts) & curing",
+            "Foundation waterproofing, DPC application",
+            "Backfilling & compaction around foundations",
+            "Foundation bolts/embedded items installation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Substructure Phase",
+      "categories": [
+        {
+          "name": "Basement Works (if applicable)",
+          "items": [
+            "Basement retaining wall reinforcement & concreting",
+            "Basement slab works (formwork, reinforcement, concreting)",
+            "Internal/external waterproofing systems",
+            "Drainage & sump pit construction",
+            "Basement ventilation, lighting & emergency access"
+          ]
+        },
+        {
+          "name": "Plinth & Ground Floor",
+          "items": [
+            "Plinth beams reinforcement, formwork, concreting",
+            "Ground floor filling & compaction (murram/selected fill)",
+            "Ground floor DPC/waterproofing layer",
+            "Ground floor slab reinforcement, concreting, curing",
+            "Plinth protection and finishing works"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Superstructure Phase",
+      "categories": [
+        {
+          "name": "Columns & Pedestals",
+          "items": [
+            "Column reinforcement cages fabrication",
+            "Column formwork erection & alignment",
+            "Concreting in lifts (height-controlled)",
+            "Curing & formwork removal",
+            "Column verticality & alignment verification"
+          ]
+        },
+        {
+          "name": "Beams",
+          "items": [
+            "Beam formwork fabrication & installation",
+            "Reinforcement placement, cover blocks",
+            "Concreting & curing",
+            "Formwork stripping after strength gain"
+          ]
+        },
+        {
+          "name": "Slabs",
+          "items": [
+            "Slab centering/shuttering installation",
+            "Bottom & top mesh reinforcement placement",
+            "Electrical/plumbing sleeves embedment",
+            "Concrete pouring (pumps/vibrators for compaction)",
+            "Finishing, curing, and formwork removal"
+          ]
+        },
+        {
+          "name": "Walls",
+          "items": [
+            "Load-bearing wall construction (block/brick)",
+            "Partition walls (non-load bearing)",
+            "Internal plastering, external rendering",
+            "Wall curing & crack control"
+          ]
+        },
+        {
+          "name": "Staircases",
+          "items": [
+            "Staircase shuttering & reinforcement",
+            "Concreting & finishing",
+            "Balustrade/handrail fixing"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roofing Phase",
+      "categories": [
+        {
+          "name": "Roof Works",
+          "items": [
+            "Roof slab casting (same as floor slab process)",
+            "Roof beams & lintels",
+            "Parapet wall construction",
+            "Roof waterproofing treatment (bitumen, membrane, or chemical)",
+            "Roof insulation & reflective coating",
+            "Roof drainage (rainwater pipes, spouts)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Masonry & Finishing Phase",
+      "categories": [
+        {
+          "name": "Masonry Works",
+          "items": [
+            "External & internal wall masonry",
+            "Mortar mixing & application",
+            "Expansion joints / control joints"
+          ]
+        },
+        {
+          "name": "Plastering & Rendering",
+          "items": [
+            "Internal plastering (scratch & finish coats)",
+            "External plaster/render with waterproofing admixtures",
+            "Ceiling plaster"
+          ]
+        },
+        {
+          "name": "Finishing Works",
+          "items": [
+            "Flooring (tiles, marble, granite, wood, vinyl)",
+            "Skirting & dado works",
+            "Wall finishes (tiles, paint, wallpaper, cladding)",
+            "Ceiling finishes (false ceiling, POP, gypsum boards)",
+            "Doors & windows (frames, shutters, glazing, hardware)",
+            "Joinery works (cabinets, wardrobes, kitchen fittings)",
+            "External façade finishing (stone, ACP, curtain wall, painting)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MEP Services (Parallel Phases)",
+      "categories": [
+        {
+          "name": "Electrical Works",
+          "items": [
+            "Conduit, sleeve, and box installation during slab/wall works",
+            "Wiring, cable trays, trunking installation",
+            "Earthing & lightning protection system",
+            "Main panels, DBs, MCCs installation",
+            "Switches, sockets, fixtures installation",
+            "Generator, UPS, and solar systems (if applicable)",
+            "Testing & commissioning"
+          ]
+        },
+        {
+          "name": "Plumbing & Drainage",
+          "items": [
+            "Water supply (underground, overhead tanks, internal piping)",
+            "Sanitary works (toilets, basins, faucets)",
+            "Drainage works (manholes, pipes, inspection chambers)",
+            "Testing & commissioning of water supply & drainage"
+          ]
+        },
+        {
+          "name": "HVAC",
+          "items": [
+            "Ductwork installation",
+            "Chillers, AHUs, FCUs installation",
+            "Refrigerant piping, insulation, controls",
+            "Testing, balancing, and commissioning"
+          ]
+        },
+        {
+          "name": "Firefighting",
+          "items": [
+            "Fire hydrant & sprinkler system installation",
+            "Fire alarm & detection system",
+            "Pump room setup",
+            "Testing & certification"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "External Works & Landscaping",
+      "categories": [
+        {
+          "name": "External Works",
+          "items": [
+            "Boundary wall & gates",
+            "Paved areas (roads, walkways, parking)",
+            "External stormwater drainage & soak pits",
+            "Landscaping (softscape & hardscape)",
+            "Street lighting & external MEP connections"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quality, Safety & Handover",
+      "categories": [
+        {
+          "name": "Quality Control",
+          "items": [
+            "Concrete cube/cylinder strength testing",
+            "NDT (rebound hammer, ultrasonic) for structure checks",
+            "Load testing of slabs/beams (if required)",
+            "Hydrostatic testing of plumbing lines",
+            "Electrical continuity & insulation resistance tests"
+          ]
+        },
+        {
+          "name": "Safety",
+          "items": [
+            "Site-specific safety inductions",
+            "PPE enforcement & monitoring",
+            "Permit-to-work systems",
+            "Lifting & scaffolding safety inspections"
+          ]
+        },
+        {
+          "name": "Handover",
+          "items": [
+            "Snagging & de-snagging works",
+            "As-built drawings submission",
+            "Operation & Maintenance (O&M) manuals",
+            "Final cleaning & polishing",
+            "Client/consultant inspections",
+            "Handover certificate & project closeout"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
